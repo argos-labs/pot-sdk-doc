@@ -1,3 +1,5 @@
+<<[Go to previous page](ARGOS_RPA_POT_SDK_on_Windows10.md)
+
 # POT SDK - Important Notes - Troubleshooting
 
 > POT SDK setup can be very sensitive about the environment. 
@@ -47,3 +49,4 @@ You can successfully install the `pypicloud[server]` python private repository.
 > 1. `Build.bat` uses Virtual Evironment which must be dedicated to POT SDK
 > 2. The Virtual Environment cannnot be modified like general Python venv. Files cannot be added or removed manually (or via CLI) because the files (especially the dependent Python modules) must be added by the ARGOS Low-code platform automatically to be syncronized with other components such as PAM.
 
+<<[Go to previous page](ARGOS_RPA_POT_SDK_on_Windows10.md)
