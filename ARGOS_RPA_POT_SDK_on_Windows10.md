@@ -104,7 +104,7 @@ Now your plugin is registered at private repository so you can make use of this 
 Because plugin is a normal software it need to fix or upgrade if needed. This guide shows how to upgrade your plugin.
 
 ---
-## POT SDK - Important Notes - Troubleshooting
+## POT SDK - Important Notes - [Troubleshooting](Troubleshooting.md)
 
 > POT SDK setup can be very sensitive about the environment. 
 > We strongly recommend you follow the instruction in the POTSDK document STEP-BY-STEP precisely to ensure the correct setup.

@@ -14,7 +14,7 @@ Because of 2 reasons:
 
 Sometimes if you get the error message, `0x80070643 - Fatal error during installation.`:
 
-![02-python-install-error](Captures/04-Troubleshooting/02-python-install-error.png)
+![02-python-install-error](Captures/04-Troubleshooting/04-python-install-error.png)
 
 > Check to see if you have installed another version of Python from `Microsoft Store` or `Anaconda` installed.
 > Uninstall preinstalled Python and then this problem will be solved.
@@ -33,6 +33,14 @@ If you encounter next error: `Failed cleaning build dir for cryptography`
 (pypi) C:\work> pip install -U pip
 (pypi) C:\work> pip install pypicloud[server]
 ```
+![02-pip-upgrade-reinstall](Captures/04-Troubleshooting/02-pip-upgrade-reinstall.png)
+
+Firstly upgrade pip and try to install again `pypicloud[server]`.
+
+![03-successful-installed](Captures/04-Troubleshooting/03-successful-installed.png)
+
+You can successfully install the `pypicloud[server]` python private repository.
+
 
 ## When you fail with build.bat, please check these items
 
