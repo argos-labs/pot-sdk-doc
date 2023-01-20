@@ -18,9 +18,9 @@ Sometimes if you get the error message, `0x80070643 - Fatal error during install
 
 ![02-python-install-error](Captures/04-Troubleshooting/04-python-install-error.png)
 
-> Check to see if you have installed another version of Python from `Microsoft Store` or `Anaconda` installed.
-> Uninstall preinstalled Python and then this problem will be solved.
-> Or you can install directly from `Anaconda` environment.
+> * Check to see if you have installed another version of Python from `Microsoft Store` or `Anaconda` installed.
+> * Uninstall preinstalled Python and then this problem will be solved.
+> * Or you can install directly from `Anaconda` environment.
 
 
 ## Could not install `pypicloud` for private repository
@@ -28,8 +28,8 @@ Sometimes if you get the error message, `0x80070643 - Fatal error during install
 If you encounter next error: `Failed cleaning build dir for cryptography`
 ![Failed cleaning build dir for cryptography](Captures/04-Troubleshooting/01-error-cryptography.png)
 
-> This is because pip version is outdated. Please update pip as latest one. (Jan 2023)
-> Run commands as follows:
+> * This is because pip version is outdated. Please update pip as latest one. (Jan 2023)
+> * Run commands as follows:
 
 ```sh
 (pypi) C:\work> pip install -U pip
