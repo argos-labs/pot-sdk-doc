@@ -4,7 +4,7 @@
 
 Run below command in the Virtual Environment:
 
-> pip install -U alabs.ppm alabs.icon --index https://pypi-official.argos-labs.com/pypi
+> pip install -U alabs.ppm alabs.icon --extra-index-url https://pypi-official.argos-labs.com/pypi
 
 ```bash
 (py37) C:\work>pip install -U alabs.ppm alabs.icon --index https://pypi-official.argos-labs.com/pypi
