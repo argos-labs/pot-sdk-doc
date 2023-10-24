@@ -64,14 +64,17 @@ setuptools 40.8.0
 
 ### Installing pypicloud
 
-Just one command is required.
+Just two commands are required.
 
 ```
+pip install SQLAlchemy==1.4.49
 pip install pypicloud[server]
 ```
 
 Below shows the actual example.
 ```sh
+(pypi) C:\work>pip install SQLAlchemy==1.4.49
+...
 (pypi) C:\work>pip install pypicloud[server]
 Collecting pypicloud[server]
   Downloading pypicloud-1.3.3-py3-none-any.whl (534 kB)
