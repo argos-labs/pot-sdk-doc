@@ -118,7 +118,7 @@ uv tool list --show-python
 
 ## 템플릿 다운로드
 
-* [플러그인 다운로드](./pugin-template2.zip) 을 다운받아 작업할 공간에 풀어주세요.
+* [플러그인 다운로드](https://github.com/argos-labs/pot-sdk-doc/blob/main/plugin-template2.zip) 을 다운받아 작업할 공간에 풀어주세요.
 * `~/home/user~/work/plugin-template2` 에 압축 해지 되었다고 가정합니다.
 > 일부 리눅스에서 unzip 명령이 없으면 unzip 패키지를 설치합니다. (예, `sudo apt install unzip`)
 

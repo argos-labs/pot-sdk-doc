@@ -117,7 +117,7 @@ Visual Studio Code 系列の IDE をインストールします。
 
 ## テンプレートのダウンロード
 
-* [plugin-template2.zip](./plugin-template2.zip) をダウンロードし、作業スペースに解凍してください。
+* [plugin-template2.zip](https://github.com/argos-labs/pot-sdk-doc/blob/main/plugin-template2.zip) をダウンロードし、作業スペースに解凍してください。
 * `~/home/user~/work/plugin-template2` に解凍されたものと想定します。
 
 ## プラグインの開発、デバッグ、テスト、ビルド
