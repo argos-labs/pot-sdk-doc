@@ -117,7 +117,7 @@ uv tool list --show-python
 
 ## 模板下载
 
-* 下载 `plugin-template2.zip` 并将其解压到您的工作空间。
+* 下载 [plugin-template2.zip](./plugin-template2.zip) 并将其解压到您的工作空间。
 * 假设它被解压到 `~/home/user~/work/plugin-template2`。
 
 ## 插件开发、调试、测试及构建

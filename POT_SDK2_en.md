@@ -117,7 +117,7 @@ Install an IDE from the Visual Studio Code family.
 
 ## Download Template
 
-* Download `plugin-template2.zip` and extract it in your workspace.
+* Download [plugin-template2.zip](./plugin-template2.zip) and extract it in your workspace.
 * Assume it is extracted to `~/home/user~/work/plugin-template2`.
 
 ## Plugin Development, Debugging, Testing and Building
