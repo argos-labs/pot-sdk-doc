@@ -80,6 +80,7 @@ uv tool을 이용하여 POT-SDK2를 설치합니다.
 
 ```bash
 uv tool install --python 3.11 --extra-index-url https://pypi-official.argos-labs.com/simple --index-strategy unsafe-best-match alabs.ppm2
+uv tool upgrade --python 3.11 --extra-index-url https://pypi-official.argos-labs.com/simple --index-strategy unsafe-best-match alabs.ppm2
 ```
 > 만약 설치된 alabs.ppm2 툴을 업그레이드하려면 위에 명령에서 `install` 대신 `upgrade`를 사용하면 됩니다.
 
